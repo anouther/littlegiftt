@@ -3,7 +3,7 @@
       const c = setTimeout(() => {
         document.body.classList.remove("not-loaded");
 
-        const titles = ('for you, my king ❤️').split('');
+        const titles = ('For you my supremacy ˗ˏˋ ♡ ˎˊ˗').split('');
         const titleElement = document.getElementById('title');
         let index = 0;
 
